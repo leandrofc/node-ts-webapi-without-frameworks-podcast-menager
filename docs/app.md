@@ -32,7 +32,7 @@ response:
   {
     podcastName: "flow",
     episode: "CBUM - Flow #319",
-    videoId:"pQSuQmUfS30"
+    videoId:"pQSuQmUfS30",
     cover: "https://i.ytimg.com/vi/pQSuQmUfS30/maxresdefault.jpg",
     link: "https://www.youtube.com/watch?v=pQSuQmUfS30",
     categories: ["saúde", "esporte","bodybuilder"]
