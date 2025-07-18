@@ -49,3 +49,6 @@ response:
 ```
 
 GET: retorna lista de episódios baseado em um parametro enviado pelo cliente do nome do podcast
+
+
+Arquitetura básica do nosso projeto
